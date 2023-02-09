@@ -2,5 +2,5 @@ imutils==0.5.4
 Pillow==8.4.0
 scikit-image==0.19.3
 streamlit==1.10.0
-opencv-python
+opencv-python==3.4.2
 numpy~=1.21.2
