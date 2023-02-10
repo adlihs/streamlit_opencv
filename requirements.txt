@@ -1,8 +1,8 @@
 pip==23.0
-numpy==1.22.2
+numpy
 imutils==0.5.4
 Pillow==8.4.0
 scikit-image==0.19.3
 streamlit==1.10.0
-opencv-python==4.7.0.68
+opencv-python-headless==4.5.4.60
 streamlit
